@@ -1,0 +1,15 @@
+{
+    "title": "A really new name",
+    "baseURL": "https:\/\/videos.areallynewname.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759121",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "areallynewname.com"
+    }
+}
